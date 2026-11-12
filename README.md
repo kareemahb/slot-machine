@@ -4,7 +4,7 @@ A simple three-reel slot machine built with plain HTML, CSS, and JavaScript. Pic
  
 > Build a simple slot machine with a minimum of 5 items per reel and 3 reels. The user should be able to bet min or max and have their total update.
  
-🔗 **Live Demo:** [kareemahb.github.io/slot-machine-2019-week05](https://kareemahb.github.io/slot-machine-2019-week05/)
+🔗 **Live Demo:** [kareemahb.github.io/slot-machine-2019-week05](https://kareemahb.github.io/slot-machine/)
  
 ![Slot machine with three reels, balance and bet display, and Bet Min, Spin, and Bet Max buttons](image.png)
  
@@ -44,7 +44,7 @@ No frameworks, dependencies, or build tools.
 ## 📁 Project Structure
  
 ```
-slot-machine-2019-week05/
+slot-machine/
 ├── index.html   # Balance, bet, reels, and buttons
 ├── style.css    # Slot machine styling
 ├── main.js      # Betting, spinning, and payout logic
@@ -55,11 +55,11 @@ slot-machine-2019-week05/
  
 ## 🚀 Getting Started
  
-Try it live on **[GitHub Pages](https://kareemahb.github.io/slot-machine-2019-week05/)**, or run it locally:
+Try it live on **[GitHub Pages](https://kareemahb.github.io/slot-machine/)**, or run it locally:
  
 ```bash
-git clone https://github.com/kareemahb/slot-machine-2019-week05.git
-cd slot-machine-2019-week05
+git clone https://github.com/kareemahb/slot-machine.git
+cd slot-machine
 ```
  
 Open `index.html` in your browser, or use the **Live Server** extension in VS Code.
